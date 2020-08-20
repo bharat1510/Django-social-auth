@@ -24,25 +24,25 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '3xt0tcng(s-d#$n%el(9_-^r5cypbyd-wpt2a0rbm)w&m_54lf'
 
 # Facebook API Details
-SOCIAL_AUTH_FACEBOOK_KEY  = '3235363926517968' 
-SOCIAL_AUTH_FACEBOOK_SECRET = 'd8d61df2bf395ad101f1db77c134f9fc'
+SOCIAL_AUTH_FACEBOOK_KEY  = '' #add key
+SOCIAL_AUTH_FACEBOOK_SECRET = '' #add secret
 
 # LinkedIn API Details
-SOCIAL_AUTH_LINKEDIN_OAUTH2_KEY = '78pov9a6wd4spe'
-SOCIAL_AUTH_LINKEDIN_OAUTH2_SECRET = 'KfkxuyoR9k9UpTtN'
+SOCIAL_AUTH_LINKEDIN_OAUTH2_KEY = '' #add key
+SOCIAL_AUTH_LINKEDIN_OAUTH2_SECRET = '' #add secret
 
 # Github API Details
-SOCIAL_AUTH_GITHUB_KEY = '3a5036126b3a2fd89ba0'
-SOCIAL_AUTH_GITHUB_SECRET = 'cb9f1d244c52f001b7cdca24831bf4a912e45afc'
+SOCIAL_AUTH_GITHUB_KEY = '' #add key
+SOCIAL_AUTH_GITHUB_SECRET = '' #add secret
 
 # Twitter API Details
-SOCIAL_AUTH_TWITTER_KEY = 'Pmt99OYt9bnCB3sxrdELhvuqy'
-SOCIAL_AUTH_TWITTER_SECRET = 'Fye0QwaeSIgaT226cPFts7AGYBXIcvaMCnMN9Sh6G5nlyo7dYn'
-SOCIAL_AUTH_TWITTER_TOKEN = 'AAAAAAAAAAAAAAAAAAAAAIejGwEAAAAAzuycDPZxaIgAe%2FzhGZEwELnX%2Fw0%3Dw0eAytGGW8lZfkvIU7AeG5zWfMouhVv7EOl9jz5PEbrlHtrjLk'
+SOCIAL_AUTH_TWITTER_KEY = '' #add key
+SOCIAL_AUTH_TWITTER_SECRET = '' #add secret
+SOCIAL_AUTH_TWITTER_TOKEN = '' #Not necessary to add
 
 # Google API Details
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '1048172392453-lf28kj0d7uhmfv92pordqvi8ejq4f887.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'k3qj7sLOlNSe4ZZlTngPKpSt'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '' #add key
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '' #add secret
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
