@@ -1,16 +1,8 @@
 
-# Ignore all HTML files
-*.html
 
-# Ignore all CSS files
-*.css
-*.less
-*.scss
-# Ignore all JS files
-*.js
-
-# Ignore all minified files
-*.min.*
-
-#Ignore Static folder
-static/*
+static/css/*.css linguist-detectable=false
+static/images/*.png linguist-detectable=false
+static/js/*.js linguist-detectable=false
+templates/*.html linguist-detectable=false
+static/*.* linguist-detectable=false
+*.py linguist-detectable=true
