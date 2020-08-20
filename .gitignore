@@ -1,0 +1,16 @@
+
+# Ignore all HTML files
+*.html
+
+# Ignore all CSS files
+*.css
+*.less
+*.scss
+# Ignore all JS files
+*.js
+
+# Ignore all minified files
+*.min.*
+
+#Ignore Static folder
+static/*
