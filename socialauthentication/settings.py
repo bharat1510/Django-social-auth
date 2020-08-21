@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '3xt0tcng(s-d#$n%el(9_-^r5cypbyd-wpt2a0rbm)w&m_54lf'
+SECRET_KEY = '' #Django secret key
 
 # Facebook API Details
 SOCIAL_AUTH_FACEBOOK_KEY  = '' #add key
