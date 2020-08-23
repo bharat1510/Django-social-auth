@@ -1,6 +1,8 @@
 # Django-social-auth
 A Django application that uses **Django-social-auth** for social login integration. 
 
+> For documentation refer this article - [Django Social Authentication](https://bharatvora814.blogspot.com/2020/08/django-social-authentication.html)
+
 Used Social APIs - 
 > ![Social Apps](https://github.com/bharat1510/image-for-readme.md/blob/master/Django-social-auth/Screenshot%20(438).png)
 
