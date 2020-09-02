@@ -1,0 +1,1 @@
+web: gunicorn socialauthentication.wsgi --log-file -
