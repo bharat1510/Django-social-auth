@@ -1,8 +1,8 @@
+# .gitignore 
 
-
-static/css/*.css linguist-detectable=false
-static/images/*.png linguist-detectable=false
-static/js/*.js linguist-detectable=false
-templates/*.html linguist-detectable=false
-static/*.* linguist-detectable=false
-*.py linguist-detectable=true
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
